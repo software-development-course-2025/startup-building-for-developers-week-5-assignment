@@ -1,28 +1,37 @@
-# Blockchain-powered Payments for SMEs in Emerging Markets 🏆
+# 🚀 Blockchain-powered Payments for SMEs in Emerging Markets 🏆
 
-## Project Overview
-This repository contains the complete documentation, pitch deck, and strategy for a fintech solution leveraging the Cardano blockchain to solve critical payment inefficiencies for Small and Medium Enterprises (SMEs) in emerging markets.
+## 💡 Project Overview
+This repository contains the full pitch deck, documentation, and strategy for a **fintech solution leveraging the Cardano blockchain** to drastically improve payment efficiency for Small and Medium Enterprises (SMEs) in high-growth emerging markets. Our focus is to deliver **instant, low-fee, and transparent payment processing**, bypassing the limitations of traditional banking systems.
 
-Our solution focuses on providing **instant, low-fee, and transparent payment processing**, eliminating the reliance on slow, costly, and opaque traditional banking systems.
+## 🎯 The Problem We Solve
+SMEs face significant hurdles that restrict growth:
+* **High Fees & Delays:** Transaction fees are prohibitive, and settlements take days, impacting cash flow.
+* **Poor Integration:** Lack of seamless integration with essential e-commerce and POS systems.
+* **Lack of Transparency:** Opaque payment flows increase risk and difficulty in fund tracking.
 
-## The Problem We Solve
-SMEs in high-growth markets are held back by:
-* **High Transaction Fees:** Leading to reduced profit margins.
-* **Delayed Settlements:** Causing cash flow problems (2–5 days for settlement).
-* **Lack of Transparency:** Difficulties in tracking funds and ensuring security.
+## ✅ The Solution: The Instant, Low-Fee Payment Bridge
+We offer a system built on Cardano Smart Contracts that ensures:
+* **Instant Settlement:** Transactions are completed in seconds.
+* **Drastic Cost Reduction:** Fees are significantly lower (0.5%–1%) compared to traditional methods.
+* **Dedicated Tools:** Merchant & Customer Apps with easy API/SDK integration.
 
-## The Solution: The Instant, Low-Fee Payment Bridge
-We built a robust payment system using smart contracts on the Cardano network, offering:
-* **Instant Finality:** Payments completed in seconds.
-* **Ultra-Low Fees:** Drastically reducing operational costs for merchants (0.5%–1% fee).
-* **Dedicated Tools:** Clean Merchant and Customer Apps, plus API/SDK for easy integration with POS and e-commerce platforms.
+## 📈 Market Opportunity & Social Impact
+The opportunity is immense, targeting a **Total Addressable Market (TAM) of over $50 Billion** in digital payments in Sub-Saharan Africa. Our solution is purpose-driven, aligning with **SDG 8 (Economic Growth) and SDG 10 (Reduced Inequalities)** by fostering financial inclusion.
 
-## Business & Social Impact
-We are targeting a Serviceable Obtainable Market (SOM) of **$500M** within a Total Addressable Market (TAM) of **$50B+**. Beyond profit, our mission is to drive **financial inclusion** (SDG 10) and support **Decent Work and Economic Growth** (SDG 8) by making commerce fair and efficient for local businesses.
+## 🔗 Project Assets & Pitch Deck
+| **Asset Type** | **Status / Link** | **Notes** |
+| :--- | :--- | :--- |
+| **Final Pitch Deck** | [PDF](./assets/InstaBridge_PitchDeck_2025.pdf) | Full visual presentation |
+| **Presentation** | [Google Slides](https://docs.google.com/presentation/d/1Z8g67uLkZLkaDK9JOa97ZyVnieH6Uo-YHrkWSdDYd2M/edit?usp=sharing) | Viewable presentation source |
+| **Interactive Version** | [Canva](https://www.canva.com/design/DAG4aO9A_UM/Wmy9gLYbC5bo-_Whua4flg/view?utm_content=DAG4aO9A_UM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc86eb9673a) | Original design source |
 
-## 🔗 View the Pitch Deck (Visuals & Video)
-| Format | Link |
-| :--- | :--- |
-| **Pitch Deck PDF** | [Link to the final PDF file in this repository] |
-| **Google Slides** | [Insert Google Slides Share Link Here] |
-| **Canva Presentation** | [Insert Canva Share Link Here] |
+---
+
+## 🤝 Team & Contact
+* **Author/Founder:** Augusto Mate 
+* **Team:** Maria Santos (Business Development) | Leticia Chimene (UX/UI Designer) 
+* **Email:** mate.augusto.mz@gmail.com 
+* **LinkedIn:** https://linkedin.com/in/augusto-mate
+
+## 📜 License
+This project is licensed under the [MIT License](./LICENSE).
